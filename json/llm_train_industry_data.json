@@ -1,0 +1,369 @@
+{
+    "documentation": {
+        "context": "This file contains the sales information of Ford of Mexico vehicle sales for 2024 at vehicle line level.",
+        "terms": [
+            {
+                "name": "Brand",
+                "definition": "Brand of the vehicle"
+            },
+            {
+                "name": "Year",
+                "definition": "Year of the sales data"
+            },
+            {
+                "name": "Month",
+                "definition": "Month of the sales data"
+            },
+            {
+                "name": "Time",
+                "definition": "Time period of the sales data, MTD is Month to date and QTY means Quarter"
+            },
+            {
+                "name": "PMA",
+                "definition": "Total of vehicles available for sale"
+            },
+            {
+                "name": "%_SALES_PER_Q",
+                "definition": "Percentage of sales for each quarter"
+            }
+        ]
+    },
+    "industry": [
+        {
+            "Brand": "ACURA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "ALFA ROMEO",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "AUDI",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "BAIC",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 2712,
+            "%_SALES_PER_Q": 1.0563380281690145
+        },
+        {
+            "Brand": "BMW",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "BUICK",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 769,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "CADILLAC",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "CHEVROLET",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 46032,
+            "%_SALES_PER_Q": 14.436619718309865
+        },
+        {
+            "Brand": "CHIREY",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 5457,
+            "%_SALES_PER_Q": 1.760563380281691
+        },
+        {
+            "Brand": "CUPRA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 1616,
+            "%_SALES_PER_Q": 0.35211267605633817
+        },
+        {
+            "Brand": "DODGE",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 4890,
+            "%_SALES_PER_Q": 1.760563380281691
+        },
+        {
+            "Brand": "FIAT",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 3758,
+            "%_SALES_PER_Q": 1.0563380281690145
+        },
+        {
+            "Brand": "GMC",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 2008,
+            "%_SALES_PER_Q": 0.7042253521126763
+        },
+        {
+            "Brand": "HONDA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 10231,
+            "%_SALES_PER_Q": 3.169014084507044
+        },
+        {
+            "Brand": "HYUNDAI",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 12006,
+            "%_SALES_PER_Q": 3.8732394366197203
+        },
+        {
+            "Brand": "INFINITI",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "ISUZU",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 545,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "JAC",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 5629,
+            "%_SALES_PER_Q": 2.112676056338029
+        },
+        {
+            "Brand": "JAGUAR",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "JEEP",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 5155,
+            "%_SALES_PER_Q": 1.4084507042253527
+        },
+        {
+            "Brand": "KIA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 24804,
+            "%_SALES_PER_Q": 7.7464788732394405
+        },
+        {
+            "Brand": "LAND ROVER",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "LEXUS",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "MAZDA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 20195,
+            "%_SALES_PER_Q": 6.338028169014088
+        },
+        {
+            "Brand": "MERCEDES BENZ",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 768,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "MG",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 13421,
+            "%_SALES_PER_Q": 4.225352112676058
+        },
+        {
+            "Brand": "MINI COOPER",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 868,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "MITSUBISHI",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 6073,
+            "%_SALES_PER_Q": 1.760563380281691
+        },
+        {
+            "Brand": "NISSAN",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 61829,
+            "%_SALES_PER_Q": 19.3661971830986
+        },
+        {
+            "Brand": "NULL",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 195,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "OMODA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 1396,
+            "%_SALES_PER_Q": 0.35211267605633817
+        },
+        {
+            "Brand": "PEUGEOT",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 3974,
+            "%_SALES_PER_Q": 1.0563380281690145
+        },
+        {
+            "Brand": "PORSCHE",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "RAM",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 6214,
+            "%_SALES_PER_Q": 2.112676056338029
+        },
+        {
+            "Brand": "RENAULT",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 9053,
+            "%_SALES_PER_Q": 2.8169014084507054
+        },
+        {
+            "Brand": "SEAT",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 4237,
+            "%_SALES_PER_Q": 1.0563380281690145
+        },
+        {
+            "Brand": "SUBARU",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 846,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "SUZUKI",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 10536,
+            "%_SALES_PER_Q": 3.169014084507044
+        },
+        {
+            "Brand": "TOYOTA",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 27942,
+            "%_SALES_PER_Q": 9.154929577464792
+        },
+        {
+            "Brand": "VOLKSVAGEN LCV",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 1412,
+            "%_SALES_PER_Q": 0.0
+        },
+        {
+            "Brand": "VOLKSWAGEN",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 30364,
+            "%_SALES_PER_Q": 9.154929577464792
+        },
+        {
+            "Brand": "VOLVO",
+            "Year": 2024,
+            "Month": "Q1",
+            "Time": "QTR",
+            "PMA": 0,
+            "%_SALES_PER_Q": 0.0
+        }
+    ]
+}
